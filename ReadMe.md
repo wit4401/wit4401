@@ -1,6 +1,7 @@
 # Basic Information about me:
 #### Will Townsend (Salisbury University):
 Computer Science and Computational Mathematical Sciences Major
+
 Data Science Minor
 
 I enjoy computation, video game (both playing and researching game design), golf, card games, and Television.
