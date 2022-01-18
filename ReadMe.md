@@ -1,4 +1,4 @@
-# Will Townsend
+# William Townsend
 ### Salisbury University Student | Computer Science and Computational Mathematical Sciences Major | Data Science Minor
 
 I enjoy computation, video games (both playing and researching game design), golf, card games, and television.
