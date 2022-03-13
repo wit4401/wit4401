@@ -31,7 +31,7 @@
   * Labs, Projects, Midterm programming questions
 * COSC 370: Computer Networks (Going Public Summer 2022)
   * Projects and Labs
-* COSC 386: Database Design and Implementation (Going Public Fall 2022)
+* COSC 386: Database Design and Implementation (Going Public Soon)
   * Major Project (My portion of database "housing" website built using php, html, and CSS)
 * MATH 311: Differential Equations (Going Public June 2022)
   * LaTeX used throughout the course for assignments and projects
