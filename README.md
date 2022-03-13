@@ -40,6 +40,24 @@
   * COSC 320 Major Project (Decision Tree)
   * Personal Projects
 
+<h2 align="center">Knowledge withh Computation</h2>
+
+### Programming Languages: 
+C, C++, Bash, Python, Java, CSS, HTML, PHP
+### Softwares Used: 
+GitHub, Unity, Unreal Engine
+### Operating Systems:
+macOS, Windows, Linux/Unix
+
+<h2 align="center">Unofficial Research Interests</h2>
+
+* Data Mining
+* Artifical Inteligence
+* Machine Learning
+* Game Design
+* Numerical Methods/Anaylsis
+* Parallel Computing
+
 ## Social Links
 ##### LinkedIn: www.linkedin.com/in/wit4401-will-t 
 ##### Instagram: https://www.instagram.com/crisp_will331/ 
