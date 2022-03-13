@@ -18,12 +18,27 @@
 
 * COSC 350: Systems Software (repo not public yet)
   * Study of programming at the systems level, mostly in a UNIX environment. Topics include processes, threads, sockets, basic I/O operations, interprocess communication and use of Shell and Perl scripts. 
-* MATH 216 Statistical Thinking
+* MATH 216: Statistical Thinking
   * Descriptive and inferential analysis of data, emphasizing appropriate assumptions, computer use and interpretation. Parametric and non-parametric methods are compared and contrasted. Includes a weekly laboratory.
-* MATH 310 Calculus III
+* MATH 310: Calculus III
   * Arc length, indeterminate forms, Euclidean spaces, functions of several variables, partial differentiation, multiple integrals.  
-* MATH 311 Differential Equations (repo not public yet)
+* MATH 311: Differential Equations (repo not public yet)
   *	 Solutions of first and second order equations and their applications: separable, exact, homogeneous, linear. Numerical and series solutions of ordinary and partial differential equations.
+
+<h2 align="center">Current and Planned Repositories</h2>
+
+* COSC 350: Systems Software (Going Public June 2022)
+  * Labs, Projects, Midterm programming questions
+* COSC 370: Computer Networks (Going Public Summer 2022)
+  * Projects and Labs
+* COSC 386: Database Design and Implementation (Going Public Fall 2022)
+  * Major Project (My portion of database "housing" website built using php, html, and CSS)
+* MATH 311: Differential Equations (Going Public June 2022)
+  * LaTeX used throughout the course for assignments and projects
+* Various Other Projects
+  * 200 Level Course Projects
+  * Personal Projects
+
 ## Social Links
 ##### LinkedIn: www.linkedin.com/in/wit4401-will-t 
 ##### Instagram: https://www.instagram.com/crisp_will331/ 
