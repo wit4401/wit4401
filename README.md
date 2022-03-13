@@ -1,7 +1,9 @@
-# William Townsend
-### Salisbury University Student | Computer Science and Computational Mathematical Sciences Major
-I enjoy computation, video games (both playing and researching game design), golf, card games, and television.
-These repositories are all major coding and work that I have done for my college classes or on my own. I try to update frequently.
+<h1 align="center">William Townsend</h1>
+
+<h2 align="center">Computer Science and Computational Mathematical Sciences Major</h2>
+
+<div align="center">I enjoy computation, video games (both playing and researching game design), golf, card games, and television. These repositories are all major coding and work that I have done for my college classes or on my own. I try to update frequently.</div>
+
 ## Current Courses
 #### COSC 350: Systems Software (repo not public yet)
 #### MATH 216 Statistical Thinking
