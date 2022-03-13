@@ -2,7 +2,9 @@
 
 <h3 align="center">Computer Science and Computational Mathematical Sciences Major</h3>
 
-![PictureOfMe](https://github.com/wit4401/wit4401/blob/main/Screen%20Shot%202022-03-13%20at%201.36.16%20PM.png)
+<p align="center">
+  <img src="https://github.com/wit4401/wit4401/blob/main/img1.png?raw=true"/>
+</p>
 
 <div align="center">I enjoy computation, video games (both playing and researching game design), golf, card games, and television. These repositories are all major coding and work that I have done for my college classes or on my own. I try to update frequently.</div>
 
