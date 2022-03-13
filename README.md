@@ -5,7 +5,7 @@
 <h3 align="center">SI Leader and Mathematic and Computer Science Tutor</h3>
 
 <p align="center">
-  <img src="https://github.com/wit4401/wit4401/blob/main/img1.png?raw=true"/>
+  <img src="https://contracting.ggibuilds.com/wp-content/uploads/2019/03/SU_Logo_color.jpg?raw=true"/>
 </p>
 
 <h3 align="center">Computer Science and Computational Mathematical Sciences Major</h3>
