@@ -1,10 +1,16 @@
 <h1 align="center">William Townsend</h1>
 
-<h3 align="center">Computer Science and Computational Mathematical Sciences Major</h3>
+<h3 align="center">Salisbury University Junior</h3>
+
+<h3 align="center">SI Leader and Mathematic and Computer Science Tutor</h3>
 
 <p align="center">
   <img src="https://github.com/wit4401/wit4401/blob/main/img1.png?raw=true"/>
 </p>
+
+<h3 align="center">Computer Science and Computational Mathematical Sciences Major</h3>
+
+<h3 align="center">Data Science Minor</h3>
 
 <div align="center">I enjoy computation, video games (both playing and researching game design), golf, card games, and television. These repositories are all major coding and work that I have done for my college classes or on my own. I try to update frequently.</div>
 
