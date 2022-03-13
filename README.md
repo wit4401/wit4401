@@ -37,6 +37,7 @@
   * LaTeX used throughout the course for assignments and projects
 * Various Other Projects
   * 200 Level Course Projects
+  * COSC 320 Major Project (Decision Tree)
   * Personal Projects
 
 ## Social Links
