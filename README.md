@@ -40,7 +40,7 @@
   * COSC 320 Major Project (Decision Tree)
   * Personal Projects
 
-<h2 align="center">Knowledge withh Computation</h2>
+<h2 align="center">Programming Expeience</h2>
 
 ### Programming Languages: 
 C, C++, Bash, Python, Java, CSS, HTML, PHP
