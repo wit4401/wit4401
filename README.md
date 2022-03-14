@@ -1,6 +1,6 @@
 <h1 align="center">William Townsend</h1>
 
-<h3 align="center">Salisbury University Junior</h3>
+<h3 align="center">Salisbury University Undergraduate Junior</h3>
 
 <h3 align="center">SI Leader and Mathematic and Computer Science Tutor</h3>
 
