@@ -14,7 +14,7 @@
 
 <div align="center">I enjoy computation, video games (both playing and researching game design), golf, card games, and television. These repositories are all major coding and work that I have done for my college classes or on my own. I try to update frequently.</div>
 
-<h2 align="center">Current Courses</h2>
+<h2 align="center">Current Courses (Spring 2022)</h2>
 
 * COSC 350: Systems Software (repo not public yet)
   * Study of programming at the systems level, mostly in a UNIX environment. Topics include processes, threads, sockets, basic I/O operations, interprocess communication and use of Shell and Perl scripts. 
