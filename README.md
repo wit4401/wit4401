@@ -16,7 +16,7 @@
 
 <h3 align="center">Data Science Minor</h3>
 
-<div align="center">I enjoy computation, video games (both playing and researching game design), golf, card games, and television. These repositories are all major coding and work that I have done for my college classes or on my own. I try to update frequently.</div>
+<div align="center">I enjoy computation, video games (both playing and researching game design), golf, card games, and television. These repositories are all major coding and work that I have done for my college classes or on my own. I update frequently.</div>
 
 <h2 align="center">Current Courses (Spring 2022)</h2>
 
