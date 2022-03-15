@@ -37,6 +37,8 @@
   * Projects and Labs
 * COSC 386: Database Design and Implementation (Going Public Soon)
   * Major Project (My portion of database "housing" website built using php, html, and CSS)
+* MATH 216: Statistical Thinking (Going Public June 2022)
+  * Labs done (using minitab statistical software)
 * MATH 311: Differential Equations (Going Public June 2022)
   * LaTeX used throughout the course for assignments and projects
 * Various Other Projects
