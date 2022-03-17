@@ -22,11 +22,11 @@
 
 * COSC 350: Systems Software (repo not public yet)
   * Study of programming at the systems level, mostly in a UNIX environment. Topics include processes, threads, sockets, basic I/O operations, interprocess communication and use of Shell and Perl scripts. 
-* MATH 216: Statistical Thinking (repo not public yet)
+* MATH 216: Statistical Thinking
   * Descriptive and inferential analysis of data, emphasizing appropriate assumptions, computer use and interpretation. Parametric and non-parametric methods are compared and contrasted. Includes a weekly laboratory.
 * MATH 310: Calculus III
   * Arc length, indeterminate forms, Euclidean spaces, functions of several variables, partial differentiation, multiple integrals.  
-* MATH 311: Differential Equations (repo not public yet)
+* MATH 311: Differential Equations 
   *	 Solutions of first and second order equations and their applications: separable, exact, homogeneous, linear. Numerical and series solutions of ordinary and partial differential equations.
 
 <h2 align="center">Current and Planned Repositories</h2>
