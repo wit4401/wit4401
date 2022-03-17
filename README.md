@@ -31,15 +31,15 @@
 
 <h2 align="center">Current and Planned Repositories</h2>
 
-* COSC 350: Systems Software (Going Public June 2022)
+* COSC 350: Systems Software
   * Labs, Projects, Midterm programming questions
-* COSC 370: Computer Networks (Going Public Summer 2022)
-  * Projects and Labs
+* COSC 370: Computer Networks
+  * Projects and Programs
 * COSC 386: Database Design and Implementation (Going Public Soon)
   * Major Project (My portion of database "housing" website built using php, html, and CSS)
-* MATH 216: Statistical Thinking (Going Public June 2022)
+* MATH 216: Statistical Thinking
   * Labs done (using minitab statistical software)
-* MATH 311: Differential Equations (Going Public June 2022)
+* MATH 311: Differential Equations
   * LaTeX used throughout the course for assignments and projects
 * Various Other Projects
   * 200 Level Course Projects
