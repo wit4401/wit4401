@@ -30,6 +30,7 @@
   *	 Solutions of first and second order equations and their applications: separable, exact, homogeneous, linear. Numerical and series solutions of ordinary and partial differential equations.
 
 <h2 align="center">Current and Planned Repositories</h2>
+
 * COSC 320: Advanced Data Structures and Algorithm Analysis
   * Labs done for this course and project done
 * COSC 350: Systems Software
