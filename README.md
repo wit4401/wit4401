@@ -30,7 +30,8 @@
   *	 Solutions of first and second order equations and their applications: separable, exact, homogeneous, linear. Numerical and series solutions of ordinary and partial differential equations.
 
 <h2 align="center">Current and Planned Repositories</h2>
-
+* COSC 320: Advanced Data Structures and Algorithm Analysis
+  * Labs done for this course and project done
 * COSC 350: Systems Software
   * Labs, Projects, Midterm programming questions
 * COSC 370: Computer Networks
@@ -43,7 +44,6 @@
   * LaTeX used throughout the course for assignments and projects
 * Various Other Projects
   * 200 Level Course Projects
-  * COSC 320 Major Project (Decision Tree)
   * Personal Projects
 
 <h2 align="center">Programming Expeience</h2>
