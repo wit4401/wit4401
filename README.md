@@ -20,7 +20,7 @@
 
 <h2 align="center">Current Courses (Spring 2022)</h2>
 
-* COSC 350: Systems Software (repo not public yet)
+* COSC 350: Systems Software
   * Study of programming at the systems level, mostly in a UNIX environment. Topics include processes, threads, sockets, basic I/O operations, interprocess communication and use of Shell and Perl scripts. 
 * MATH 216: Statistical Thinking
   * Descriptive and inferential analysis of data, emphasizing appropriate assumptions, computer use and interpretation. Parametric and non-parametric methods are compared and contrasted. Includes a weekly laboratory.
