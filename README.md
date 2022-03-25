@@ -29,6 +29,12 @@
 * MATH 311: Differential Equations 
   *	 Solutions of first and second order equations and their applications: separable, exact, homogeneous, linear. Numerical and series solutions of ordinary and partial differential equations.
 
+<h2 align="center">Current and Future Projects</h2>
+
+* TBD Software Engineering Project (Fall 2022-Spring 2023)
+  * Client: TBD
+  * Teammates: TBD
+
 <h2 align="center">Current and Planned Repositories</h2>
 
 * COSC 320: Advanced Data Structures and Algorithm Analysis
