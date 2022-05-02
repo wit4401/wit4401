@@ -29,6 +29,17 @@
 * MATH 311: Differential Equations 
   *	 Solutions of first and second order equations and their applications: separable, exact, homogeneous, linear. Numerical and series solutions of ordinary and partial differential equations.
 
+<h2 align="center">Future Courses (Fall 2022)</h2>
+
+* COSC 420: Hi-Performance Computing
+  * Principles and practice of parallel and distributed computing. Topics include modern computing architectures, concurrency principles and algorithm design, and applications and programming. 
+* COSC 425: Software Engineering
+  * Study of conventional and object oriented software engineering principles and methods: the human computer interface, requirements analysis, prototyping, software design, system models, use of tools, project management, implementation, testing strategies, software metrics, maintenance, quality assurance, ethics and professional responsibility. Use of standards, verification and validation, configuration management, quality assurance and human factors. Student teams will analyze a real world problem and design, implement, document and test a software system based upon the specified requirements.
+* MATH 465: Mathematical Models and Applications
+  * Mathematical basis for model building; examples of simple models for uncomplicated systems in biology, psychology, business and other fields; finite Markov process; models for growth process; linear programming.  
+* MATH 471: Numerical Methods 
+  * Interpolation, functional approximation, numerical differentiation and integration, nonlinear equations, numerical solutions of differential equations, analysis of error.
+
 <h2 align="center">Current and Future Projects</h2>
 
 * TBD Software Engineering Project (COSC425/426 | Fall 2022-Spring 2023)
