@@ -8,7 +8,7 @@
   <img src="https://contracting.ggibuilds.com/wp-content/uploads/2019/03/SU_Logo_color.jpg?raw=true"/>
 </p>
 
-<h3 align="center">Member of Pi Mu Epsilon Honor Society (Will be Inducted May 2022)</h3>
+<h3 align="center">Member of Pi Mu Epsilon Honor Society (Inducted May 2022)</h3>
 
 <h3 align="center">Member of Upsilon Pi Epsilon Honor Society (Inducted October 2021)</h3>
 
