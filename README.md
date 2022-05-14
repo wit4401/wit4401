@@ -18,17 +18,6 @@
 
 <div align="center">I enjoy computation, video games (both playing and researching game design), golf, card games, and television. These repositories are all major coding and work that I have done for my college classes or on my own. I update frequently.</div>
 
-<h2 align="center">Current Courses (Spring 2022)</h2>
-
-* COSC 350: Systems Software
-  * Study of programming at the systems level, mostly in a UNIX environment. Topics include processes, threads, sockets, basic I/O operations, interprocess communication and use of Shell and Perl scripts. 
-* MATH 216: Statistical Thinking
-  * Descriptive and inferential analysis of data, emphasizing appropriate assumptions, computer use and interpretation. Parametric and non-parametric methods are compared and contrasted. Includes a weekly laboratory.
-* MATH 310: Calculus III
-  * Arc length, indeterminate forms, Euclidean spaces, functions of several variables, partial differentiation, multiple integrals.  
-* MATH 311: Differential Equations 
-  *	 Solutions of first and second order equations and their applications: separable, exact, homogeneous, linear. Numerical and series solutions of ordinary and partial differential equations.
-
 <h2 align="center">Future Courses (Fall 2022)</h2>
 
 * COSC 420: Hi-Performance Computing
