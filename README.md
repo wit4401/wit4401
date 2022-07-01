@@ -1,6 +1,6 @@
 <h1 align="center">William Townsend</h1>
 
-<h3 align="center">Salisbury University Undergraduate Junior</h3>
+<h3 align="center">Salisbury University Undergraduate Senior</h3>
 
 <h3 align="center">SI Leader and Mathematic and Computer Science Tutor</h3>
 
@@ -43,10 +43,8 @@
   * Labs, Projects, Midterm programming questions
 * COSC 370: Computer Networks
   * Projects and Programs
-* COSC 386: Database Design and Implementation (Going Public Soon)
+* COSC 386: Database Design and Implementation
   * Major Project (My portion of database "housing" website built using php, html, and CSS)
-* MATH 216: Statistical Thinking
-  * Labs done (using minitab statistical software)
 * MATH 311: Differential Equations
   * LaTeX used throughout the course for assignments and projects
 * Various Other Projects
