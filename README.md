@@ -18,7 +18,7 @@
 
 <div align="center">I enjoy computation, video games (both playing and researching game design), golf, card games, and television. These repositories are all major coding and work that I have done for my college classes or on my own. I update frequently.</div>
 
-<h2 align="center">Future Courses (Fall 2022)</h2>
+<h2 align="center">Current Courses</h2>
 
 * COSC 420: Hi-Performance Computing
   * Principles and practice of parallel and distributed computing. Topics include modern computing architectures, concurrency principles and algorithm design, and applications and programming. 
