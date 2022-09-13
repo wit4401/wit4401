@@ -1,4 +1,4 @@
-<h1 align="center">William Townsend</h1>
+<h1 align="center">Will Townsend</h1>
 
 <h3 align="center">Salisbury University Undergraduate Senior</h3>
 
