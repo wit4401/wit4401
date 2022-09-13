@@ -55,7 +55,6 @@ macOS, Windows, Linux/Unix
 * Data Mining
 * Artifical Inteligence
 * Machine Learning
-* Game Design
 * Numerical Methods/Anaylsis
 * Parallel Computing
 
