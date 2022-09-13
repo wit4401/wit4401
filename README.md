@@ -29,27 +29,17 @@
 * MATH 471: Numerical Methods 
   * Interpolation, functional approximation, numerical differentiation and integration, nonlinear equations, numerical solutions of differential equations, analysis of error.
 
-<h2 align="center">Current and Future Projects</h2>
+<h2 align="center">Projects</h2>
 
-* Textual Baseline Project: Software Engineering Project (COSC425/426 | Fall 2022-Spring 2023)
+* Textual Baseline Project: Software Engineering Project (COSC 425/426 | Fall 2022-Spring 2023)
   * Client: Dr. Randall Cone (Assosiate Professor at Salisbury University | Mathematics Department)
   * Teammates: Joshua Comfort, Joseph Fernandez, Ikomi Moki, Caroline Smith
-
-<h2 align="center">Current and Planned Repositories</h2>
-
-* COSC 320: Advanced Data Structures and Algorithm Analysis
-  * Labs done for this course and project done
-* COSC 350: Systems Software
-  * Labs, Projects, Midterm programming questions
-* COSC 370: Computer Networks
-  * Projects and Programs
-* COSC 386: Database Design and Implementation
-  * Major Project (My portion of database "housing" website built using php, html, and CSS)
-* MATH 311: Differential Equations
-  * LaTeX used throughout the course for assignments and projects
-* Various Other Projects
-  * 200 Level Course Projects
-  * Personal Projects
+* File Compression (COSC 350 | Spring 2022)
+  * Repository COSC350 (Project2)
+  * Individual Project
+* Greek Life Database Housing Website (COSC 386 | Fall 2021)
+  * Reposistory COSC386
+  * Teamates: Bradley Bogaczyk, Andrew Depace, William Jenkins, Zachary Moore
 
 <h2 align="center">Programming Expeience</h2>
 
