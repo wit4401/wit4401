@@ -2,19 +2,19 @@
 
 <h3 align="center">Salisbury University Undergraduate Senior</h3>
 
-<h3 align="center">SI Leader and Mathematic and Computer Science Tutor</h3>
+<h3 align="center">Computer Science and Computational Mathematical Sciences Major</h3>
+
+<h3 align="center">Data Science Minor</h3>
 
 <p align="center">
   <img src="https://contracting.ggibuilds.com/wp-content/uploads/2019/03/SU_Logo_color.jpg?raw=true"/>
 </p>
 
+<h3 align="center">SI Leader and Mathematic and Computer Science Tutor</h3>
+
 <h3 align="center">Member of Pi Mu Epsilon Honor Society (Inducted May 2022)</h3>
 
 <h3 align="center">Member of Upsilon Pi Epsilon Honor Society (Inducted October 2021)</h3>
-
-<h3 align="center">Computer Science and Computational Mathematical Sciences Major</h3>
-
-<h3 align="center">Data Science Minor</h3>
 
 <div align="center">I enjoy computation, video games (both playing and researching game design), golf, card games, and television. These repositories are all major coding and work that I have done for my college classes or on my own. I update frequently.</div>
 
