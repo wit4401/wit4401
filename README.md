@@ -34,9 +34,6 @@
 * Textual Baseline Project: Software Engineering Project (COSC 425/426 | Fall 2022-Spring 2023)
   * Client: Dr. Randall Cone (Assosiate Professor at Salisbury University | Mathematics Department)
   * Teammates: Joshua Comfort, Joseph Fernandez, Ikomi Moki, Caroline Smith
-* File Compression (COSC 350 | Spring 2022)
-  * Repository COSC350 (Project2)
-  * Individual Project
 * Greek Life Database Housing Website (COSC 386 | Fall 2021)
   * Reposistory COSC386
   * Teamates: Bradley Bogaczyk, Andrew Depace, William Jenkins, Zachary Moore
