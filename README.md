@@ -52,7 +52,7 @@ macOS, Windows, Linux/Unix
 * Data Mining
 * Artifical Inteligence
 * Machine Learning
-* Numerical Methods/Anaylsis
+* Numerical Methods & Anaylsis
 * Parallel Computing
 
 ## Social Links
