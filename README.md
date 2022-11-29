@@ -34,10 +34,11 @@
 * Textual Baseline Project: Software Engineering Project (COSC 425/426 | Fall 2022-Spring 2023)
   * Client: Dr. Randall Cone (Assosiate Professor at Salisbury University | Mathematics Department)
   * Teammates: Joshua Comfort, Joseph Fernandez, Ikomi Moki, Caroline Smith
-  * GitHub Link: https://github.com/Salisbury-University/textual
+  * Repository: https://github.com/Salisbury-University/textual
 * Greek Life Database Housing Website (COSC 386 | Fall 2021)
   * Reposistory COSC386
   * Teamates: Bradley Bogaczyk, Andrew Depace, William Jenkins, Zachary Moore
+  * Repository: https://github.com/wit4401/COSC386
 
 <h2 align="center">Programming Expeience</h2>
 
