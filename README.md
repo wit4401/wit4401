@@ -29,6 +29,17 @@
 * MATH 471: Numerical Methods 
   * Interpolation, functional approximation, numerical differentiation and integration, nonlinear equations, numerical solutions of differential equations, analysis of error.
 
+<h2 align="center">Future Courses</h2>
+
+* COSC 311: Introduction to Data Visualization and Interpretation
+  * Provides a foundation in the area of data science based on data curation and statistical analysis. Learn data analysis concepts and techniques that facilitate making decisions from a rich data set. Investigate data concepts, metadata creation and interpretation, machine learning, and basics of information visualization. Learn fundamentals about data standards and methods for organizing, curating, preserving data for reuse, drawing conclusions and making decisions from data. Understand how to use data analysis tools for data manipulation, analysis and visualization. Includes discussions on diverse issues around data, including technologies, behaviors, organizations, policies and society. 
+* COSC 426: Software Engineering II
+  * Study of conventional and object oriented software engineering principles and methods: the human computer interface, requirements analysis, prototyping, software design, system models, use of tools, project management, implementation, testing strategies, software metrics, maintenance, quality assurance, ethics and professional responsibility. Use of standards, verification and validation, configuration management, quality assurance and human factors. Student teams will analyze a real world problem and design, implement, document and test a software system based upon the specified requirements. 
+* COSC 450: Operating Systems
+  * Analysis of the operating system, the program which supervises the activity of the computer. Study of processes, interprocess communication, scheduling, I/O systems, deadlock, file systems, memory management, security/protection mechanisms and resource allocation. 
+* COSC/MATH 495: Directed Consulting 
+  * Provides teams of 3-12 students with experience in using mathematical and computing tools to solve real-world problems posed by a client organization, such as a research institute, business or industry. Combines individual and group work, and requires the presentation of a written and oral report to the client organization and the department. 
+
 <h2 align="center">Projects</h2>
 
 * Textual Baseline Project: Software Engineering Project (COSC 425/426 | Fall 2022-Spring 2023)
