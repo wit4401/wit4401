@@ -31,8 +31,8 @@
 
 <h2 align="center">Projects</h2>
 
-* Unknown Project: Directed Consulting (COSC 495 | Spring 2023)
-  * Client: Unknown
+* Impact of Social Environment on Food Intake Among College Students: Directed Consulting (COSC 495 | Spring 2023)
+  * Client: George Mason University
   * Teammates: Unknown
   * Repository: Not up yet
 * Textual Baseline Project: Software Engineering Project (COSC 425/426 | Fall 2022-Spring 2023)
