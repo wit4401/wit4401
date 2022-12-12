@@ -30,7 +30,10 @@
   * Provides teams of 3-12 students with experience in using mathematical and computing tools to solve real-world problems posed by a client organization, such as a research institute, business or industry. Combines individual and group work, and requires the presentation of a written and oral report to the client organization and the department. 
 
 <h2 align="center">Projects</h2>
-
+* Unknown Project: Directed Consulting (COSC 495 | Spring 2023)
+  * Client: Unknown
+  * Teammates: Unknown
+  * Repository: Not up yet
 * Textual Baseline Project: Software Engineering Project (COSC 425/426 | Fall 2022-Spring 2023)
   * Client: Dr. Randall Cone (Assosiate Professor at Salisbury University | Mathematics Department)
   * Teammates: Joshua Comfort, Joseph Fernandez, Ikomi Moki, Caroline Smith
