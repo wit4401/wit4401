@@ -31,11 +31,11 @@
 
 <h2 align="center">Projects</h2>
 
-* Impact of Social Environment on Food Intake Among College Students: Directed Consulting Research Project (COSC 495 | Spring 2023)
+* Social Environment on Food Intake Among College Students (COSC 495 | Spring 2023)
   * Client: George Mason University
   * Teammates: Unknown
   * Repository: Not up yet
-* Textual Baseline Project: Software Engineering Project (COSC 425/426 | Fall 2022-Spring 2023)
+* Textual Baseline Project (COSC 425/426 | Fall 2022-Spring 2023)
   * Client: Dr. Randall Cone (Assosiate Professor at Salisbury University | Mathematics Department)
   * Teammates: Joshua Comfort, Joseph Fernandez, Ikomi Moki, Caroline Smith
   * Repository: https://github.com/Salisbury-University/textual
