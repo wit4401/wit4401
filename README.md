@@ -31,7 +31,7 @@
 
 <h2 align="center">Projects</h2>
 
-* Impact of Social Environment on Food Intake Among College Students: Directed Consulting (COSC 495 | Spring 2023)
+* Impact of Social Environment on Food Intake Among College Students: Directed Consulting Research Project (COSC 495 | Spring 2023)
   * Client: George Mason University
   * Teammates: Unknown
   * Repository: Not up yet
