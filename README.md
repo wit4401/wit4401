@@ -10,13 +10,13 @@
   <img src="https://contracting.ggibuilds.com/wp-content/uploads/2019/03/SU_Logo_color.jpg?raw=true"/>
 </p>
 
-<h3 align="center">SI Leader and Mathematic and Computer Science Tutor</h3>
+<h3 align="center">Mathematic and Computer Science Tutor</h3>
 
 <h3 align="center">Member of Pi Mu Epsilon Honor Society (Inducted May 2022)</h3>
 
 <h3 align="center">Member of Upsilon Pi Epsilon Honor Society (Inducted October 2021)</h3>
 
-<div align="center">I enjoy computation, video games (both playing and researching game design), golf, card games, and television. These repositories are all major coding and work that I have done for my college classes or on my own. I update frequently.</div>
+<div align="center">I enjoy computation, video games, golf, card games, and television. These repositories are all major coding and work that I have done for my college classes or on my own. I update frequently.</div>
 
 <h2 align="center">Future Courses</h2>
 
@@ -33,7 +33,7 @@
 
 * Social Environment on Food Intake Among College Students (COSC 495 | Spring 2023)
   * Client: George Mason University
-  * Teammates: Unknown
+  * Teammates: Sam Blaxberg, Sarah Chambers, Theodore Cooper, Bradley Cruikshank, Matthew Funk, Keara Lentscher, Corey Phillips 
   * Repository: Not up yet
 * Textual Baseline Project (COSC 425/426 | Fall 2022-Spring 2023)
   * Client: Dr. Randall Cone (Assosiate Professor at Salisbury University | Mathematics Department)
@@ -47,19 +47,13 @@
 <h2 align="center">Programming Expeience</h2>
 
 ### Programming Languages: 
-C, C++, Bash, Python, Java, CSS, HTML, PHP, SQL
-### Softwares Used: 
-GitHub, Unity, Unreal Engine, MySQL
+C/C++, Python, JavaScript, CSS, HTML
+### Frameworks
+Bootstrap, ReactJS
+### Software:
+GitHub, Unreal Engine, MongoDB (DBMS)
 ### Operating Systems:
 macOS, Windows, Linux/Unix
-
-<h2 align="center">Unofficial Research Interests</h2>
-
-* Data Mining
-* Artifical Inteligence
-* Machine Learning
-* Numerical Methods & Anaylsis
-* Parallel Computing
 
 ## Social Links
 ##### LinkedIn: www.linkedin.com/in/wit4401-will-t 
