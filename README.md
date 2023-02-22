@@ -34,7 +34,7 @@
 * Social Environment on Food Intake Among College Students (COSC 495 | Spring 2023)
   * Client: George Mason University
   * Teammates: Sam Blaxberg, Sarah Chambers, Theodore Cooper, Bradley Cruikshank, Matthew Funk, Keara Lentscher, Corey Phillips 
-  * Repository: Not up yet
+  * Repository: https://github.com/wit4401/CAMSPrograms
 * Textual Baseline Project (COSC 425/426 | Fall 2022-Spring 2023)
   * Client: Dr. Randall Cone (Assosiate Professor at Salisbury University | Mathematics Department)
   * Teammates: Joshua Comfort, Joseph Fernandez, Ikomi Moki, Caroline Smith
