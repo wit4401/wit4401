@@ -19,6 +19,7 @@
 <div align="center">I enjoy computation, video games, golf, card games, and television. These repositories are all major coding and work that I have done for my college classes or on my own. I update frequently.</div>
 
 <h2 align="center">Current Courses</h2>
+
 * COSC 450: Operating Systems
   * Analysis of the operating system, the program which supervises the activity of the computer. Study of processes, interprocess communication, scheduling, I/O systems, deadlock, file systems, memory management, security/protection mechanisms and resource allocation. 
 
