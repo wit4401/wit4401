@@ -2,12 +2,12 @@
 ## About Me
 My name is Will Townsend and I am a recent Salisbury University graduate with a dual Major in Computer Science and Mathematics.
 
-<h2 align="center">Current Courses</h2>
+## Current Courses
 
 * COSC 450: Operating Systems
   * Analysis of the operating system, the program which supervises the activity of the computer. Study of processes, interprocess communication, scheduling, I/O systems, deadlock, file systems, memory management, security/protection mechanisms and resource allocation. 
 
-<h2 align="center">Projects</h2>
+## Projects
 
 * Social Environment on Food Intake Among College Students
   * Client: George Mason University
@@ -22,7 +22,7 @@ My name is Will Townsend and I am a recent Salisbury University graduate with a 
   * Teamates: Bradley Bogaczyk, Andrew Depace, William Jenkins, Zachary Moore
   * Repository: https://github.com/wit4401/COSC386
 
-<h2 align="center">Programming Expeience</h2>
+## Programming Expeience
 
 ### Programming Languages: 
 C/C++, Python, JavaScript, CSS, HTML, SQL
