@@ -27,6 +27,7 @@
 
 * Social Environment on Food Intake Among College Students
   * Client: George Mason University
+  * Advisor: Dr. Jiacheng Cai
   * Teammates: Sam Blaxberg, Sarah Chambers, Theodore Cooper, Bradley Cruikshank, Matthew Funk, Keara Lentscher, Corey Phillips 
 * Textual Baseline Project (Fall 2022-Spring 2023)
   * Client: Dr. Randall Cone (Assosiate Professor at Salisbury University | Mathematics Department)
