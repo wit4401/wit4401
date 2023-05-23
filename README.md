@@ -29,23 +29,23 @@
   * Client: George Mason University
   * Advisor: Dr. Jiacheng Cai
   * Teammates: Sam Blaxberg, Sarah Chambers, Theodore Cooper, Bradley Cruikshank, Matthew Funk, Keara Lentscher, Corey Phillips 
-* Textual Baseline Project (Fall 2022-Spring 2023)
+* Textual Baseline Project (September 2022 - May 2023)
   * Client: Dr. Randall Cone (Assosiate Professor at Salisbury University | Mathematics Department)
   * Teammates: Joshua Comfort, Joseph Fernandez, Ikomi Moki, Caroline Smith
   * Repository: https://github.com/Salisbury-University/textual
 * Greek Life Database Housing Website Fall 2021
-  * Reposistory COSC386
+  * Advisor: Dr. Yaping Jing
   * Teamates: Bradley Bogaczyk, Andrew Depace, William Jenkins, Zachary Moore
   * Repository: https://github.com/wit4401/COSC386
 
 <h2 align="center">Programming Expeience</h2>
 
 ### Programming Languages: 
-C/C++, Python, JavaScript, CSS, HTML
+C/C++, Python, JavaScript, CSS, HTML, SQL
 ### Frameworks
-Bootstrap, ReactJS
+Bootstrap
 ### Software:
-GitHub, Unreal Engine, MongoDB (DBMS)
+GitHub, MySQL, MongoDB
 ### Operating Systems:
 macOS, Windows, Linux/Unix
 
