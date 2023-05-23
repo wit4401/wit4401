@@ -1,18 +1,6 @@
-<h1 align="center">Will Townsend</h1>
-
-<h3 align="center">Salisbury University Undergraduate Senior</h3>
-
-<h3 align="center">Computer Science and Computational Mathematical Sciences Major</h3>
-
-<h3 align="center">Data Science Minor</h3>
-
-<h3 align="center">Mathematic and Computer Science Tutor</h3>
-
-<h3 align="center">Member of Pi Mu Epsilon Honor Society (Inducted May 2022)</h3>
-
-<h3 align="center">Member of Upsilon Pi Epsilon Honor Society (Inducted October 2021)</h3>
-
-<div align="center">I enjoy computation, video games, golf, card games, and television. These repositories are all major coding and work that I have done for my college classes or on my own. I update frequently.</div>
+# Welcome!
+## About Me
+My name is Will Townsend and I am a recent Salisbury University graduate with a dual Major in Computer Science and Mathematics.
 
 <h2 align="center">Current Courses</h2>
 
