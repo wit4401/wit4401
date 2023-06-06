@@ -2,6 +2,7 @@
 ## About Me 
 I'm a Software Developer, and a 2023 Salisbury University graduate with a degree in Computer Science and Computational Mathematical Sciences. I specialize in full stack development with experience in data science, high performance computing, object oriented programming, and web development. My outside interest include video games, theatrical performing, and reading. The various personal and research based projects along with various university class assignments can be found in the repositories associated with my profile. Feel free to explore.
 ## Achievements
+* University Overall GPA: 3.4
 * Salisbury University Upsilon Pi Epsilon Honor Society
 * Salisbury University Pi Mu Epsilon Honor Society
 ## Projects
