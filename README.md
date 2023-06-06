@@ -1,18 +1,18 @@
-# Welcome!
-## About Me
-
+# Welcome 👋🏽 🤖
+## About Me 
+I'm a Software Developer, and a 2023 Salisbury University graduate with a degree in Computer Science and Computational Mathematical Sciences. I specialize in full stack development with experience in data science, high performance computing, object oriented programming, and web development. My outside interest include video games, theatrical performing, and reading. The various personal and research based projects along with various university class assignments can be found in the repositories associated with my profile. Feel free to explore.
 ## Achievements
 
 ## Projects
-* Social Environment on Food Intake Among College Students
+* Social Environment on Food Intake Among College Students | Februrary 2023 - May 2023
   * Client: George Mason University
   * Advisor: Dr. Jiacheng Cai
   * Teammates: Sam Blaxberg, Sarah Chambers, Theodore Cooper, Bradley Cruikshank, Matthew Funk, Keara Lentscher, Corey Phillips 
-* Textual Baseline Project (September 2022 - May 2023)
-  * Client: Dr. Randall Cone (Assosiate Professor at Salisbury University | Mathematics Department)
+* Textual Baseline Project | September 2022 - May 2023
+  * Client: Dr. Randall Cone | Assosiate Professor at Salisbury University Mathematics Department
   * Teammates: Joshua Comfort, Joseph Fernandez, Ikomi Moki, Caroline Smith
   * Repository: https://github.com/Salisbury-University/textual
-* Greek Life Database Housing Website Fall 2021
+* Greek Life Database Housing Website | September 2021 - December 2021
   * Advisor: Dr. Yaping Jing
   * Teamates: Bradley Bogaczyk, Andrew Depace, William Jenkins, Zachary Moore
   * Repository: https://github.com/wit4401/COSC386
